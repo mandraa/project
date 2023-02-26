@@ -12,7 +12,7 @@ class PageController extends Controller
     }
 
     public function about() {
-        return "Juniar Andra P 2141720214";
+        return "Juniar Andra P dan 2141720214";
     }
 
     public function articles(Request $request, $id) {
