@@ -14,7 +14,8 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return 'Selamat Datang';
+    return 'Selamat
+    Datang';
 });
 //Route::get('/test',[TestController::class,'index']);
 //Route::get('/', 'App\Http\Controllers\TestController@index');
